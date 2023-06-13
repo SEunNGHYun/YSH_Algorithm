@@ -11,8 +11,7 @@ for _ in range(n):
   turn = 0
   
   while True:
-    if n == 0:
-      break
+    
     check = True
     for j in range(1, n):
       if works_li[0]['val'] < works_li[j]['val']:
