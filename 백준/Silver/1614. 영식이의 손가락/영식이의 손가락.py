@@ -6,8 +6,8 @@ f = int(input())
 use = int(input())
 result = 0
 
-if (use < 3):
-  for i in range(8):
+if (use < 3) and (f != 5 and f != 1):
+  for i in range(8) :
     if (check[i] == f) and (use == 0):
       break
     elif (check[i] == f):
