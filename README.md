@@ -9,7 +9,7 @@
 ### 📕 사용하는 언어 
 ---
 
-**Python**, **JavaScript**, **Swift**
+**Python**, **JavaScript**, **Swift**, **SQL**
 
 <br/>
 
